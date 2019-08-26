@@ -1,0 +1,12 @@
+Numpy Topics::
+1.Broadcasting 
+2.creating Numpy arrays and performing basic array operations
+3.selecting array elements
+4.logical ooperations on array
+5. slicing arrays 
+6.reshaping array
+7.combining array
+8.spliting array
+9.useful numerical methods of Numpy arrays
+10.Array Oriented_Programming
+11.stacking(row_stack,column_stack)
